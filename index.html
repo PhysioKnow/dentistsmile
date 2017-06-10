@@ -17,6 +17,7 @@ layout: default
         
         <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
             <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Make an Appointment</h3>
+            <!--
             <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
                 <div class="form-field">
                     <input name="name" type="text" placeholder="Name" required>
@@ -32,6 +33,20 @@ layout: default
                 </div>
                 <input type="submit" class="btn btn-default" value="Send">
             </form>
+            -->
+	   <form action="https://formspree.io/shikhagupta1707@gmail.com"
+      		method="POST">
+            <div class="form-field">
+                <input type="text" name="name" placeholder="Name">
+            </div>
+            <div class="form-field">
+    		    <input type="email" name="_replyto" placeholder="Your Email">
+            </div>
+            <div class="form-field">
+    		    <textarea type="message" name="_replyto" placeholder="Message"></textarea>
+            </div>
+    		<input type="submit" value="Send">
+	   </form>
         </div>
 
     </div>
