@@ -1,23 +1,17 @@
 - icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-- icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: <b>Orthopedic Physiotherapy</b>
+  description: Orthopaedic Physiotherapy is focused on the muscular and skeletal systems. Various types of disorders and injuries affecting muscles, bones, and joints are treated using physiotherapy. Some example of treatments under these conditions are Cervical Pain(cervical spondylosis), Arthritis, Back/Spine/Neck Injuries an conditions, Knee replacement, Sciatica, Ligament injuries, muscular dystrophy, Gout, broken bone injuries, tennis elbow, ankle and foot injuries, frozen shoulder/rotator cuff injuries etc.
+ 
+- icon: icon-medkit
+  title: <b>Neurological Physiotherapy</b>
+  description: Neurological physiotherapy involves the treatment of the nervous system, including the brain, spinal cord and all the peripheral nerves to the face, body, arms and legs.Wide range of conditions treated under this section are like cerebral palsy, stroke/paralysis, bell's palsy, spinal cord injury, parkinson's disease, neurological disorder, muscular dystrophy, meningitis, chronic pain, diabetic neuropathy, motor neurone disease, erb's palsy, dementia, epilepsy,fisher syndrome, brachial plexus injury etc.
 
 - icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: <b>Sport's Injuries Physiotherapy</b>
+  description: This section focused for injuries or conditions arrived during sports activities like strains, sprains, muscle aches, post traumatic pain, backaches, torn ligaments, post fractures, joint pain etc. Treatment is focused on symptoms and all possible efforts are made to make patients continue with their sports activities. Example of conditions treated in this section are Anterior cruciate ligament (ACL) injuries, posterior cruciate ligament ruptures, ankle sprains, ligament injury tear, shoulder instability, tennis elbow, plantar fasciitis, achilles tendonitis etc.
 
-- icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-globe
+  title: <b>Regular Physiotherapy Wellness Camps</b>
+  description: Regular welness camps are organized to consult for health and fitness. Regular physical activities is one of the most important thing which can help Control weight, reduce risk of cardiovascular disease, reduce risk for type 2 diabetes and metabolic syndrome, reduce risk of cancers, strengthen your bones and muscles, improve your ability to do daily activities and prevent falls.
+
+

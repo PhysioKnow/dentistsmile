@@ -8,23 +8,22 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: Shikha Gupta
-    hero_description: Physiotherapist in South Bangalore - Arkere, JP Nagar, Bannerghatta Road, LnT South City, Brigade Millenium, Brigade Gardenia, Elita Promenade & surrounding areas
+    hero_title: 
+    hero_description: Physiotherapy consultation in South Bangalore - Arekere, JP Nagar, Bannerghatta Road, LnT South City, Brigade Millenium, Brigade Gardenia, Elita Promenade & surrounding areas
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: 8105842891
+    emergency: 7019250958
+    email: shikhagupta1707@gmail.com
+    address: "Ortho-Neuro Care Clinic, #433,Laxmi Layout, 8th Cross,Arekere Micro Layout, Bannergatta Road,near Pragati Century Apartment, Bangalore - 560076"
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_saturday: 9:30AM –6:30PM
+sunday: On Appointment
 
 # Testimonials
 testimonials:
@@ -32,9 +31,9 @@ testimonials:
 
 # Map
 map:
-    zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
-    address_details: svg/min/logo.svg
+    zoom: 10
+    address: Ortho Neuro Care physiotherapy clinic, 433, Laxmi Layout, 8th Cross, Arekere Micro Layout, Bannergatta Road, near Pragati Century Apartment, Bangalore - 560076, Karnataka, India
+    address_details: svg/min/Map.jpg
 
 # Social settings
 facebook: http://facebook.com
@@ -45,7 +44,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: ©  2017 PhysioKnow - All rights reserved
 
 # Build settings
 markdown: kramdown
