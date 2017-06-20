@@ -9,7 +9,7 @@ date: 2017-06-20
 
 <p><b>Physioknow</b> encourages everyone to participate in this day and spend atleast 20 minutes out of your busy day schedule for different <b>Yoga</b> excercises.</p>
 
-<p>If you are first timer you can follow this link on youtube by Ramdev <a href =" https://www.youtube.com/watch?v=c2Af9PGAiF8"> to practice easy and simple <b>Yoga</b> aasanas.</p></a>
+<p>If you are first timer you can follow this link on youtube by Ramdev to practice <a href =" https://www.youtube.com/watch?v=c2Af9PGAiF8"> easy and simple <b>Yoga</b> aasanas.</a></p>
 
 <p>Keep your mind cool and get set ready for tomorrow.</p>
 
