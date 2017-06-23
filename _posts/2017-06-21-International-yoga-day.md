@@ -4,8 +4,8 @@ title: "International Yoga day"
 date: 2017-06-21
 ---
 
-<ul>
-<p> Here comes the International  <b>Yoga</b> day. So, what you all know about <b>Yoga?? </b> Let's understand the basic definition as below: </p>
+
+<p>Here comes the International  <b>Yoga</b> day. So, what you all know about <b>Yoga?? </b> Let's understand the basic definition as below:</p>
 
 <p><b>Yoga</b> is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India. There is a broad variety of <b>Yoga</b> practices like hatha <b>Yoga</b> etc..Some <b>Yoga</b> teachers defined single line difference between <b>Yoga</b> and general excercise as <b>Yoga</b> to be practised slowly and gently whereas general excercise to be practiced quickly and with force.</p>
 
