@@ -3,7 +3,6 @@ layout: post
 title: "Evening before International Yoga day"
 date: 2017-06-20
 ---
-
 <ul>
 <p> Hey all, here comes the International <b>Yoga</b> day tomorrow. Considering that <b>Yoga</b> provides a holistic approach to health,United Nations has declared Jun 21st as the International <b>Yoga</b> day.</p>
 
@@ -18,5 +17,4 @@ date: 2017-06-20
 
 
 <p> <b>Be healthy, Be happy !!</b> </p>
-
 
