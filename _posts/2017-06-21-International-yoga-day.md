@@ -5,7 +5,7 @@ date: 2017-06-21
 ---
 
 
-Here comes the International  **Yoga** day. So, what you all know about **Yoga?? ** Let's understand the basic definition as below:
+Here comes the International  **Yoga** day. So, what you all know about **Yoga** ?? Let's understand the basic definition as below:
 
 **Yoga** is a group of physical, mental, and spiritual practices or disciplines which originated in ancient India. There is a broad variety of **Yoga** practices like hatha **Yoga** etc..Some **Yoga** teachers defined single line difference between **Yoga** and general excercise as **Yoga** to be practised slowly and gently whereas general excercise to be practiced quickly and with force.
 
