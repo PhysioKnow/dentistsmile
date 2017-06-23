@@ -236,3 +236,14 @@ layout: default
 <!-- Start Map -->
 <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
 <!-- End Map -->
+
+<!-- Start Blog --> 
+<div id="blog">
+    	<h2 class="section-title">Knowledge Base</h2>
+	<ul class="posts">
+
+	{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
+</div>
