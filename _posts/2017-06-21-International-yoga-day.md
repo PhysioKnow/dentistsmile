@@ -15,9 +15,9 @@ I am sure all **Physioknow** followers had enjoyed International **Yoga** day to
 
 I pray for all of you to have healthy and peaceful routine which is also full of knowledge towards healthy life.
 
-**I end today with below Quote: **
+**I end today with below Quote:**
 
-*"Simple smile every morning after you wake up and before you sleep, already gained you one extra healthy day for life " *
+*"Simple smile every morning after you wake up and before you sleep, already gained you one extra healthy day for life"*
 
 **Be healthy, Be happy !! and keep adding knowledge in your life**
 
