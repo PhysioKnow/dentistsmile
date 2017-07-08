@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Back pain causes and excercise as remedy"
+title: "Back pain causes and remedies"
 date: 2017-07-08
 ---
 
