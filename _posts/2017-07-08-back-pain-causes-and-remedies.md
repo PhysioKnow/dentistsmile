@@ -40,7 +40,7 @@ So let's understand what is **back pain** it's causes and how to get rid of it o
 * **Degenerated disc:** general wear and tear makes discs susceptible to injury
 * **Bulging disc:** a protruding disc pressing on a nerve
 * **Herniated disc:** a ruptured disc pressing on a nerve
-* **Spinal stenosid:** narrowing of the spinal canal, pressing on the spinal cord
+* **Spinal stenosis:** narrowing of the spinal canal, pressing on the spinal cord
 * **Spondylolisthesis:** damaged joints may lead to vertebrae slipping out of place, pressing the spinal cord or nerve roots
 
 *All of the above conditions may lead to what's known as **scitica***
